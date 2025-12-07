@@ -41,4 +41,9 @@ public class ExtentReportDemo {
 
 		extent.flush(); // To Say the Test is Done to generate the report
 	}
+
+	@Test
+	public void gitExample() {
+		System.out.println("This Method is Taken for  Git Example ");
+	}
 }
